@@ -23,8 +23,8 @@ email: yashasva.dev@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I am a Software Developer. My current interests includes JS, JS libs and frameworks. 
   Feel free to connect @ yashasva.dev@gmail.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blogs" 
+url: "https://thedevwonder.github.io" 
 twitter_username: YashasvaP
 github_username:  thedevwonder
 
