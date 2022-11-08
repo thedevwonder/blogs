@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Welcome to my World!"
+date:   2022-11-08
+permalink: /its-me
+categories: jekyll update
+---
+
+Around 13.8 billion years ago, the universe was formed. And in 1822, the first computer was created. Every creation has a story behind it, that gives its origin some meaning. I am trying to write a story too. 
+
+I am a `software developer` and I like to build things. I also create art. What I'm gonna be writing here are ideas, insights from my daily surfing on the internet, concepts breakdown which I call "the clean teaching model", music, and maybe some sketches/photos here and there. Basically, anything that will inspire me. Currently I am majorly interested in `JavaScript` and its lib/frameworks and I plan to write about it as dig the JS grave deeper. This will be quite a journey for me and I hope you, a random internet stranger, may find something useful out of it.
+
+Thanks!!
