@@ -9,6 +9,4 @@ Last year, I wrote an article on the strange browser behaviour I encountered. ==
 
 Posting the blog link I wrote, explaining about the challenge.
 
----
-
-The Google Foobar - [Blog][https://yashasvaparas.medium.com/the-google-foobar-what-you-need-to-know-about-it-c1e9bc0f516c]
+==The Google Foobar== - [Blog][https://yashasvaparas.medium.com/the-google-foobar-what-you-need-to-know-about-it-c1e9bc0f516c]
