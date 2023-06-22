@@ -2,5 +2,5 @@
 
  - [Deep Clone a Graph. But wait..?](/deepclone-graph)
  - [Generating Random Numbers in JavaScript](/generate-random-number)
- - [An attempt to create a Static Site Generator - 1](/my-static-site-1)
+ - [An attempt to create a Static Site Generator - 1](/my-static-site)
 
