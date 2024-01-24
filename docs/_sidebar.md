@@ -1,5 +1,2 @@
-* [Table of Contents](/)
-* [Deep Clone a Graph. But wait..?](/deepclone-graph)
-* [Generating Random Number in JavaScript](/generate-random-number)
-* [An attempt to create a Static Site Generator - 1](/my-static-site)
-* [Practical Experiences of Managing Personal Domain](/nameservers)
+ * [Home](/)
+ * [Engineering Space](/engineering-space)
